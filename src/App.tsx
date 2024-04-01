@@ -1,11 +1,11 @@
-import './App.css';
+import "./App.css";
 
-const App = () => {
-	return (
-		<div>
-      <h1>Chúc các bạn làm bài tốt!</h1>
-		</div>
-	);
-};
+function App() {
+  return (
+    <>
+      <h1>Chúc các bạn thi tốt!</h1>
+    </>
+  );
+}
 
 export default App;
